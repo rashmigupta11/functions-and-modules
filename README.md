@@ -12,6 +12,7 @@ Write a Python program that:
 
 For example, if the function is called with 5, it should return:
 ```
+Enter a number:5
 Factorial of 5 is: 120
 ```
 ## Task 2: Using the Math Module for Calculations
@@ -28,8 +29,8 @@ Write a Python program that:
 
 ## Expected Output
 
-For example, if the user enters 25, the output should be:
 ```
+Enter a number:25
 Square root of 25 is: 5.0
 Natural log of 25 is: 3.2189
 Sine of 25 radians is: -0.1324
